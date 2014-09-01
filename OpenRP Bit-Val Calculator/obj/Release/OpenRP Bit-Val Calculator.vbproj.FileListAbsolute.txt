@@ -1,0 +1,10 @@
+c:\users\nexus\documents\visual studio 2013\Projects\OpenRP Bit-Val Calculator\OpenRP Bit-Val Calculator\bin\Release\OpenRP Bit-Val Calculator.exe.config
+c:\users\nexus\documents\visual studio 2013\Projects\OpenRP Bit-Val Calculator\OpenRP Bit-Val Calculator\bin\Release\OpenRP Bit-Val Calculator.exe
+c:\users\nexus\documents\visual studio 2013\Projects\OpenRP Bit-Val Calculator\OpenRP Bit-Val Calculator\bin\Release\OpenRP Bit-Val Calculator.pdb
+c:\users\nexus\documents\visual studio 2013\Projects\OpenRP Bit-Val Calculator\OpenRP Bit-Val Calculator\bin\Release\OpenRP Bit-Val Calculator.xml
+c:\users\nexus\documents\visual studio 2013\Projects\OpenRP Bit-Val Calculator\OpenRP Bit-Val Calculator\obj\Release\OpenRP_Bit_Val_Calculator.Form1.resources
+c:\users\nexus\documents\visual studio 2013\Projects\OpenRP Bit-Val Calculator\OpenRP Bit-Val Calculator\obj\Release\OpenRP_Bit_Val_Calculator.Resources.resources
+c:\users\nexus\documents\visual studio 2013\Projects\OpenRP Bit-Val Calculator\OpenRP Bit-Val Calculator\obj\Release\OpenRP Bit-Val Calculator.vbproj.GenerateResource.Cache
+c:\users\nexus\documents\visual studio 2013\Projects\OpenRP Bit-Val Calculator\OpenRP Bit-Val Calculator\obj\Release\OpenRP Bit-Val Calculator.exe
+c:\users\nexus\documents\visual studio 2013\Projects\OpenRP Bit-Val Calculator\OpenRP Bit-Val Calculator\obj\Release\OpenRP Bit-Val Calculator.xml
+c:\users\nexus\documents\visual studio 2013\Projects\OpenRP Bit-Val Calculator\OpenRP Bit-Val Calculator\obj\Release\OpenRP Bit-Val Calculator.pdb
